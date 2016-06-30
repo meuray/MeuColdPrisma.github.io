@@ -1,3 +1,9 @@
 = El primer articulo de este blog no tendra mucha información
 
 Bueno ahora tengo un blog en hubpress, vere que tanto puedo hacer con el pero, mientras tanto voy a seguir trabajando con ghost que estoy igual alli, aun tengo que hacer muchas cosas para mostrar este blog como personalizar las vistas, arreglar todo para que se vea todo como yo quiero y tener el blogger como un buen recuerdo de cuando inicie en esto 
+
+Me pregunto ahora ¿como se pondran las imagenes aquí en primer lugar? 
+
+sera dejando una linea de comandos? ? ? ?
+
+<a href="https://3.bp.blogspot.com/-gmlexFbfUxQ/V2UPH1r5ZkI/AAAAAAAADjc/OAvnhDrO2QsyQYuEnZ2q5rFxKmPSLCTPACLcB/s1600/Title.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="612" src="https://3.bp.blogspot.com/-gmlexFbfUxQ/V2UPH1r5ZkI/AAAAAAAADjc/OAvnhDrO2QsyQYuEnZ2q5rFxKmPSLCTPACLcB/s640/Title.png" width="640" /></a></div>
