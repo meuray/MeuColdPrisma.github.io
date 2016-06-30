@@ -1,0 +1,3 @@
+= El primer articulo de este blog no tendra mucha información
+
+Bueno ahora tengo un blog en hubpress, vere que tanto puedo hacer con el pero, mientras tanto voy a seguir trabajando con ghost que estoy igual alli, aun tengo que hacer muchas cosas para mostrar este blog como personalizar las vistas, arreglar todo para que se vea todo como yo quiero y tener el blogger como un buen recuerdo de cuando inicie en esto 
