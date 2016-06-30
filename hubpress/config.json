@@ -4,7 +4,17 @@
     "repositoryName": "meuray.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "MeuColdPrisma",
+    "description": "art and style",
+    "logo": "",
+    "cover": "http://3.bp.blogspot.com/-zwtuu91T1Pk/VfZSgjAgfyI/AAAAAAAAC84/Yy5usOTblZM/s1600-r/ColdPrisma3.png"
+  },
+  "socialnetwork": {
+    "email": "seveni.1999@gmail.com",
+    "github": "meuray"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
