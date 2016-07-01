@@ -28,6 +28,14 @@ Y si quiero subir una imagen de mi Pixiv creo que tendría que hacer eso
 
 ++++
 <html>
+<head>
+<style>
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
 ul.pagination li {display: inline;}
 
 ul.pagination li a {
@@ -52,6 +60,11 @@ ul.pagination li a {
 </html>
 
 ++++
+
+
+
+
+
 
 
 image::https://2.bp.blogspot.com/-0-jmFiJGO1s/V3XsRCbbunI/AAAAAAAADkw/RT9bdANlWREhfBmE-6mWZpLJK7n8Yca7QCLcB/s1600/autorlogo1.png["Logo autor",align="center"]
