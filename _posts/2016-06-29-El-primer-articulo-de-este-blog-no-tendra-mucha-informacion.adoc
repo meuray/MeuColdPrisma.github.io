@@ -9,4 +9,12 @@ sera dejando una linea de comandos? ? ? ?
 
 Nop
 
+
+++++
+<button type="button" class="btn btn-default" aria-label="Left Align">
+  <span class="glyphicon glyphicon-step-backward" aria-hidden="true"></span>
+</button>
+
+++++
+
 image::https://2.bp.blogspot.com/-0-jmFiJGO1s/V3XsRCbbunI/AAAAAAAADkw/RT9bdANlWREhfBmE-6mWZpLJK7n8Yca7QCLcB/s1600/autorlogo1.png["Logo autor",align="center"]
