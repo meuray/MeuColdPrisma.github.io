@@ -12,5 +12,5 @@ image::http://i3.pixiv.net/img-original/img/2015/12/19/14/58/37/54110594_p0.png[
 
 Pues Por ahora funciona, mmm, este articulo no debería tener el tag de Emily Pink si en ningún momento se llega hablar de esa historieta, bueno aun estoy haciendo pruebas que se le va hacer 
 
-image::https://2.bp.blogspot.com/-0-jmFiJGO1s/V3XsRCbbunI/AAAAAAAADkw/RT9bdANlWREhfBmE-6mWZpLJK7n8Yca7QCLcB/s1600/autorlogo1.png["Tiger image",align="center"]
+image::https://2.bp.blogspot.com/-0-jmFiJGO1s/V3XsRCbbunI/AAAAAAAADkw/RT9bdANlWREhfBmE-6mWZpLJK7n8Yca7QCLcB/s1600/autorlogo1.png["Logo autor",align="center"]
 
