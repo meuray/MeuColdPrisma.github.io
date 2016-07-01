@@ -26,13 +26,7 @@ Pues Por ahora funciona, mmm, este articulo no debería tener el tag de Emily Pi
 Y si quiero subir una imagen de mi Pixiv creo que tendría que hacer eso
 
 ++++
-<p>
-Content in a passthrough block is passed to the output unprocessed.
-That means you can include raw HTML, like this embedded Gist:
-</p>
-
-<script src="http://gist.github.com/mojavelinux/5333524.js">
-</script>
+<script src="http://source.pixiv.net/source/embed.js" data-id="54110594_96e4dee771ac618131819f2a236cfc6d" data-size="large" data-border="on" charset="utf-8"></script><noscript><p><a href="http://www.pixiv.net/member_illust.php?illust_id=54110594&amp;mode=medium" target="_blank">Sanigi Astenia</a> by <a href="http://www.pixiv.net/member.php?id=6580227" target="_blank">meu</a> on <a href="http://www.pixiv.net/" target="_blank">pixiv</a></p></noscript>
 ++++
 
 
