@@ -25,22 +25,9 @@ Pues Por ahora funciona, mmm, este articulo no debería tener el tag de Emily Pi
 
 Y si quiero subir una imagen de mi Pixiv creo que tendría que hacer eso
 
-++++
-<script src="http://source.pixiv.net/source/embed.js" data-id="54110594_96e4dee771ac618131819f2a236cfc6d" data-size="large" data-border="on" charset="utf-8"></script><noscript><p><a href="http://www.pixiv.net/member_illust.php?illust_id=54110594&amp;mode=medium" target="_blank">Sanigi Astenia</a> by <a href="http://www.pixiv.net/member.php?id=6580227" target="_blank">meu</a> on <a href="http://www.pixiv.net/" target="_blank">pixiv</a></p></noscript>
-++++
-
 
 ++++
-
 <html>
-<head>
-<style>
-ul.pagination {
-    display: inline-block;
-    padding: 0;
-    margin: 0;
-}
-
 ul.pagination li {display: inline;}
 
 ul.pagination li a {
@@ -54,8 +41,8 @@ ul.pagination li a {
 <body>
 <center>
 <ul class="pagination" >
-  <li><a class="active" href="https://meuray.github.io/2016/06/30/Okey-nueva-entrada.html">♣</a></li>
-  <li><a class="active" href="https://meuray.github.io/2016/06/30/Okey-nueva-entrada.html"> ← </a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/07/01/El-Fantastico-Anticuario-de-Emily-Pink-01.html">♣</a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/07/01/El-Fantastico-Anticuario-de-Emily-Pink-01.html"> ← </a></li>
   <li><a class="active" href="https://meuray.github.io/2016/06/29/El-primer-articulo-de-este-blog-no-tendra-mucha-informacion.html#">→ </a></li>
   <li><a class="active" href="https://meuray.github.io/2016/06/29/El-primer-articulo-de-este-blog-no-tendra-mucha-informacion.html#"> ♧ </a></li>
 </ul>
