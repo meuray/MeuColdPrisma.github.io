@@ -2,15 +2,26 @@
 
 :hp-tags: Emily_Pink
 
+Luego de pensarlo por mucho tiempo decidí que montaría un nuevo blog usando otro servicio, para probar nuevas experiencias y ver más mundo aparte de blogger. Había pensado en un momento por wordpress pero luego de un par de años pensándolo y haber trabajando con distintas herramientas decidí mejor tomar otro servicio, Hubpress. 
+
+Hubpress es un servicio de blog que se monta directamente a tu cuenta de git y listo no hay más que explicar, es verdaderamente sencillo. El único requerimiento que debes tener en cuenta es que el nombre del blog debe tener el mismo nombre que tu cuenta de git, en este caso mi cuenta de git se llama meuray por lo que mi blog deberá tener el mimo nombre, ahora mismo no lo veo como un gran inconveniente pero tengo la sensación de que eso podría traer cierta confusión en un futuro, aunque ahora no voy a pensar en eso.
+
 Pues ahora me queda por probar el uso de imágenes en aquí, así que vamos a seguir paso por paso lo que nos piden hacer.
 
 image::https://3.bp.blogspot.com/-gmlexFbfUxQ/V2UPH1r5ZkI/AAAAAAAADjc/OAvnhDrO2QsyQYuEnZ2q5rFxKmPSLCTPACLcB/s1600/Title.png[]
+
+image::https://github.com/meuray/meuray.github.io/blob/master/images/Title.png[]
+
+
+
 
 Bueno... como que subir las imágenes al github no me termino de funcionar, supongo que trabajo con un tamaño de imagen muy grande, pero no importa, aun puedo subir mis dibujos algún otro servidor solo me queda saber con cual tendría que trabajar... quizás con pixiv? A ver que tal sale 
 
 image::https://dl.dropboxusercontent.com/u/71565615/umi_nautilus_15color.png[]
 
 Pues Por ahora funciona, mmm, este articulo no debería tener el tag de Emily Pink si en ningún momento se llega hablar de esa historieta, bueno aun estoy haciendo pruebas que se le va hacer 
+
+
 
 ++++
 
