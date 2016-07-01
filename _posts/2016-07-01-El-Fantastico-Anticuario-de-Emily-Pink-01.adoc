@@ -36,7 +36,7 @@ ul.pagination li a {
   <li><a class="active" href="https://meuray.github.io/2016/07/01/El-Fantastico-Anticuario-de-Emily-Pink-01.htmll">♣</a></li>
   <li><a class="active" href="https://meuray.github.io/2016/07/01/El-Fantastico-Anticuario-de-Emily-Pink-01.html"> ← </a></li>
   <li><a class="active" href="https://meuray.github.io/2016/06/30/Okey-nueva-entrada.html">→ </a></li>
-  <li><a class="active" href="https://meuray.github.io/2016/06/29/El-primer-articulo-de-este-blog-no-tendra-mucha-informacion.html"> ♧ </a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/07/01/El-Fantastico-Anticuario-de-Emily-Pink-01.html"> ♧ </a></li>
 </ul>
 </center>
 
