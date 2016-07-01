@@ -8,3 +8,33 @@ Bueno ahora que tengo este blog supongo que lo mejor sera ir ubicando algunos ar
 Bueno, para parar de molestarlos más aquí la tira 
 
 image::https://1.bp.blogspot.com/-vgxMSY2gj64/V2UPPQJ294I/AAAAAAAADjk/u5ExnSgR6jIqio2vqbwSOtwvPAbu30vbACKgB/s1600/emilipink01.png[]
+
+++++
+<html>
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 40px 10px;
+    text-decoration: none;
+}
+</style>
+</head>
+<body>
+<center>
+<ul class="pagination" >
+  <li><a class="active" href="https://meuray.github.io/2016/06/30/Okey-nueva-entrada.html">♣</a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/06/30/Okey-nueva-entrada.html"> ← </a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/06/29/El-primer-articulo-de-este-blog-no-tendra-mucha-informacion.html#">→ </a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/06/29/El-primer-articulo-de-este-blog-no-tendra-mucha-informacion.html#"> ♧ </a></li>
+</ul>
+</center>
+
+</body>
+</html>
+
+++++
+
+
+image::https://2.bp.blogspot.com/-0-jmFiJGO1s/V3XsRCbbunI/AAAAAAAADkw/RT9bdANlWREhfBmE-6mWZpLJK7n8Yca7QCLcB/s1600/autorlogo1.png["Logo autor",align="center"]
