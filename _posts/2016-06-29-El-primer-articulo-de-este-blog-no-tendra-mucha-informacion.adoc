@@ -24,7 +24,7 @@ ul.pagination li {display: inline;}
 ul.pagination li a {
     color: black;
     float: center;
-    padding: 20px 30px;
+    padding: 40px 1000px;
     text-decoration: none;
 }
 </style>
