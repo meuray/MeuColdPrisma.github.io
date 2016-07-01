@@ -25,7 +25,7 @@ ul.pagination li {display: inline;}
 
 ul.pagination li a {
     color: black;
-    float: right;
+    float: left;
     padding: 40px 10px;
     text-decoration: none;
 }
@@ -33,7 +33,7 @@ ul.pagination li a {
 </head>
 <body>
 
-<ul class="pagination">
+<ul class="pagination" >
   <li><a href="#">♣</a></li>
   <li><a href="#"> ← </a></li>
   <li><a class="active" href="#">→ </a></li>
