@@ -12,6 +12,8 @@ Nop
 
 ++++
 
+<html>
+<head>
 <style>
 ul.pagination {
     display: inline-block;
@@ -39,6 +41,7 @@ ul.pagination li a {
 </ul>
 
 </body>
+</html>
 
 ++++
 
