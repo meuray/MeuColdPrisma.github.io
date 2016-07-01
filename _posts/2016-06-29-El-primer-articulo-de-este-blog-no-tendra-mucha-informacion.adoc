@@ -39,7 +39,7 @@ ul.pagination li a {
   <li><a class="active" href="#">→ </a></li>
   <li><a href="#"> ♧ </a></li>
 </ul>
-<center>
+</center>
 
 </body>
 </html>
