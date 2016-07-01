@@ -8,7 +8,7 @@ image::https://3.bp.blogspot.com/-gmlexFbfUxQ/V2UPH1r5ZkI/AAAAAAAADjc/OAvnhDrO2Q
 
 Bueno... como que subir las imágenes al github no me termino de funcionar, supongo que trabajo con un tamaño de imagen muy grande, pero no importa, aun puedo subir mis dibujos algún otro servidor solo me queda saber con cual tendría que trabajar... quizás con pixiv? A ver que tal sale 
 
-image::http://i3.pixiv.net/img-original/img/2015/12/19/14/58/37/54110594_p0.png[]
+image::https://dl.dropboxusercontent.com/u/71565615/umi_nautilus_15color.png[]
 
 Pues Por ahora funciona, mmm, este articulo no debería tener el tag de Emily Pink si en ningún momento se llega hablar de esa historieta, bueno aun estoy haciendo pruebas que se le va hacer 
 
