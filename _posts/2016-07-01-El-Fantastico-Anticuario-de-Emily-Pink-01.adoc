@@ -1,7 +1,43 @@
 = El Fantástico Anticuario de Emily Pink 01
 :hp-tags: Emily_Pink
 
-image::https://3.bp.blogspot.com/-gmlexFbfUxQ/V2UPH1r5ZkI/AAAAAAAADjc/OAvnhDrO2QsyQYuEnZ2q5rFxKmPSLCTPACLcB/s1600/Title.png[]
+++++
+
+<html lang="en" dir="ltr" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+
+<style type="text/css">
+.parallax [class*="bg__"] {
+  position: relative;
+  height: 50vh;
+  text-indent: -9999px;
+  background-attachment: fixed;
+  background-position: top center;
+  background-size: cover;
+}
+.parallax [class*="bg__"]:nth-child(2n) {
+  box-shadow: inset 0 0 1em #111;
+}
+.parallax .bg__foo, .parallax .bg__bazz {
+  height: 100vh;
+}
+.parallax .bg__foo {
+  background-image: url(https://3.bp.blogspot.com/-gmlexFbfUxQ/V2UPH1r5ZkI/AAAAAAAADjc/OAvnhDrO2QsyQYuEnZ2q5rFxKmPSLCTPACLcB/s1600/Title.pn);
+}
+
+
+	</style>
+</head>
+
+<article>
+  <div class="parallax">
+    <div class="bg__foo">foo</div>
+
+++++
+
+
+
+
 
 Bueno ahora que tengo este blog supongo que lo mejor sera ir ubicando algunos artículos que subí en el blog anterior, no pienso subirlos todos ya que si es algo que no le voy a dar seguimiento mejor que se quede allá, ahora este es una tira que la verdad espero hacer de manera más regular y creo que me estoy pensando en subir el rey del laberinto de la misma forma solo que el rey del laberinto solo estará en este blog y en el otro va estar solo en la galería, nose no me lo he terminado de pensar
 
