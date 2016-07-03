@@ -19,7 +19,7 @@
   box-shadow: inset 0 0 1em #111;
 }
 .parallax .bg__foo, .parallax .bg__bazz {
-  height: 70vh;
+  height: 100vh;
 }
 .parallax .bg__foo {
   background-image: url(https://dl.dropboxusercontent.com/u/71565615/emilylogo.png);
