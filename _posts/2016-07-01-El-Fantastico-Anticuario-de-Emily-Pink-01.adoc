@@ -12,7 +12,7 @@
   height: 50vh;
   text-indent: -9999px;
   background-attachment: fixed;
-  background-position: top center;
+  background-position: top left;
   background-size: cover;
 }
 .parallax [class*="bg__"]:nth-child(2n) {
@@ -25,20 +25,7 @@
   background-image: url(https://3.bp.blogspot.com/-gmlexFbfUxQ/V2UPH1r5ZkI/AAAAAAAADjc/OAvnhDrO2QsyQYuEnZ2q5rFxKmPSLCTPACLcB/s1600/Title.png);
 }
 
-.parallax .capture {
-  float: right;
-  width: 200px;
-  padding: 1em;
-  margin: -1.5em 1em 0 0;
-  text-indent: 0;
-  background: rgba(243, 243, 243, 0.75);
-  box-shadow: 0 1px 0.125em #333;
-}
 
-article section.parallax {
-  margin: 0;
-  padding: 0;
-}
 	</style>
 </head>
 
