@@ -19,7 +19,7 @@
   box-shadow: inset 0 0 1em #111;
 }
 .parallax .bg__foo, .parallax .bg__bazz {
-  height: 100vh;
+  height: 90vh;
 }
 .parallax .bg__foo {
   background-image: url(https://3.bp.blogspot.com/-gmlexFbfUxQ/V2UPH1r5ZkI/AAAAAAAADjc/OAvnhDrO2QsyQYuEnZ2q5rFxKmPSLCTPACLcB/s1600/Title.png);
