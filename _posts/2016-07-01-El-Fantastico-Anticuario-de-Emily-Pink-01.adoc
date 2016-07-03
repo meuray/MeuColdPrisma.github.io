@@ -22,7 +22,7 @@
   height: 90vh;
 }
 .parallax .bg__foo {
-  background-image: url(https://dl.dropboxusercontent.com/u/71565615/emilylogo.png);
+  background-image: url(https://dl.dropboxusercontent.com/u/71565615/emilylogo2.png);
 }
 
 
