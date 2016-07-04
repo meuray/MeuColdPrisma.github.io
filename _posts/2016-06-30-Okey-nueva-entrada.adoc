@@ -22,8 +22,13 @@ No se que es lo que exactamente este haciendo mal pero la cuestión es que no se
 ++++
 
 
-
-<div align="center"><iframe src="http://sinentradas.blogspot.com" width=450 height=250 frameborder=1 scrolling=auto></iframe></div>
+<html>
+<head></head>
+<body>
+<h1>Pagina principal</h1>
+<iframe name="nombre" src="https://dl.dropboxusercontent.com/u/71565615/pure3.html" width="400" height="400" frameborder="1">Tu navegador no soporta iframes</iframe>
+</body>
+</html>
 
 
 ++++
