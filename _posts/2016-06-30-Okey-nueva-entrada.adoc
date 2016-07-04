@@ -20,16 +20,12 @@ image::meuray.github.io/images/Title.png[]
 No se que es lo que exactamente este haciendo mal pero la cuestión es que no se termina de visualizar , pero eso no importa ya que puedo seguir subiendo las imágenes a google o dropbox y luego pasarlas directamente al blog, así que con eso no tengo problema 
 
 ++++
-<html>
-<head>
 
-<article>
-    <h1>Example for 'background-attachment : fixed'</h1>
 
-<iframe src="http://embed.pixiv.net/code.php?id=54110594_96e4dee771ac618131819f2a236cfc6d" width="380" height="168" style="background:transparent" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<div align="center"><iframe src="http://sinentradas.blogspot.com" width=450 height=250 frameborder=1 scrolling=auto></iframe></div>
 
-</head>
-</html>
+
+
 
 ++++
 
