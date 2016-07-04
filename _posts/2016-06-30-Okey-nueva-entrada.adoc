@@ -19,11 +19,28 @@ image::meuray.github.io/images/Title.png[]
 
 No se que es lo que exactamente este haciendo mal pero la cuestión es que no se termina de visualizar , pero eso no importa ya que puedo seguir subiendo las imágenes a google o dropbox y luego pasarlas directamente al blog, así que con eso no tengo problema 
 
+++++
+<html>
+<head>
+
+<article>
+    <h1>Example for 'background-attachment : fixed'</h1>
+
+<iframe src="http://embed.pixiv.net/code.php?id=54110594_96e4dee771ac618131819f2a236cfc6d" width="380" height="168" style="background:transparent" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+</head>
+</html>
+
+++++
+
 image::https://dl.dropboxusercontent.com/u/71565615/umi_nautilus_15color.png[]
 
 Pues Por ahora funciona, mmm, este articulo no debería tener el tag de Emily Pink si en ningún momento se llega hablar de esa historieta, bueno aun estoy haciendo pruebas que se le va hacer.
 
+
+
 Y si quiero subir una imagen de mi Pixiv creo que tendría que hacer eso
+
 
 
 ++++
