@@ -22,9 +22,8 @@ No se que es lo que exactamente este haciendo mal pero la cuestión es que no se
 ++++
 
 
+
 <div align="center"><iframe src="http://sinentradas.blogspot.com" width=450 height=250 frameborder=1 scrolling=auto></iframe></div>
-
-
 
 
 ++++
