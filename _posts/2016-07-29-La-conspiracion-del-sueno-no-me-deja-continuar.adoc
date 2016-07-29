@@ -2,40 +2,7 @@
 
 :hp-tags: aleatorio
 
-++++
-
-<html lang="en" dir="ltr" xmlns:fb="http://ogp.me/ns/fb#">
-<head>
-
-	<style type="text/css">
-.parallax [class*="bg__"] {
-  position: relative;
-  height: 50vh;
-  text-indent: -9999px;
-  background-attachment: fixed;
-  background-position: top left;
-  background-size: cover;
-}
-.parallax [class*="bg__"]:nth-child(2n) {
-  box-shadow: inset 0 0 1em #111;
-}
-.parallax .bg__foo, .parallax .bg__bazz {
-  height: 85vh;
-}
-.parallax .bg__foo {
-  background-image: url(https://dl.dropboxusercontent.com/u/71565615/umidrows.png);
-}
-
-
-	</style>
-</head>
-
-<article>
-  <div class="parallax">
-    <div class="bg__foo">foo</div>
-        
-++++
-
+image::https://dl.dropboxusercontent.com/u/71565615/umidrows.png["sueño",align="center"]
 
 Pues estos últimos días me a estado pasando algo muy particular, cada que despierto solo puedo estar activo unas cuantas horas para luego empezar a tener sueño y luego dormir como por 6, 12 horas, no se por que exactamente me pasa eso, pero es algo que me esta empezando a fastidiar, osea no puedo estar despierto un mínimo de tiempo o empezar a querer hacer algo por que de una vez me acuesto a dormir otra vez.... 
 
