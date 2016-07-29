@@ -42,3 +42,47 @@ Pues estos últimos días me a estado pasando algo muy particular, cada que desp
 Y pues eso es lo que me ha estado atrasando todo este tiempo, pensé que si simplemente dormía esas horas ya se me iba a quitar pero no, simplemente no puedo mantenerme despierto por mucho tiempo, por más que lo intente, ¿a que se deberá esto? Supongo que al saber que ya termine materias mi cuerpo ya no ahora me este pidiendo de vuelta todas esas horas que no dormí si, también he reducido el consumo de gaseosa por lo que quizás pueda ser eso pero no lo se
 
 Y bueno este mal trae consigo también el problema que no puedo avanzar tan rápido como quiero en los dibujos, y es que entre más horas de sueño menos trabajo puedo hacer, espero que este problema se me quite pronto, o si no.... o si no... pues me tomare UN MALDITO GALON DE REDBULL 
+
+
+++++
+<html>
+<head>
+<style>
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 40px 10px;
+    text-decoration: none;
+}
+</style>
+</head>
+<body>
+<center>
+<ul class="pagination" >
+  <li><a class="active" href="https://meuray.github.io/2016/07/01/El-Fantastico-Anticuario-de-Emily-Pink-01.html">♣</a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/07/01/El-Fantastico-Anticuario-de-Emily-Pink-01.html"> ← </a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/06/29/El-primer-articulo-de-este-blog-no-tendra-mucha-informacion.html#">→ </a></li>
+  <li><a class="active" href="https://meuray.github.io/2016/06/29/El-primer-articulo-de-este-blog-no-tendra-mucha-informacion.html#"> ♧ </a></li>
+</ul>
+</center>
+
+</body>
+</html>
+
+++++
+
+
+
+
+
+
+
+image::https://2.bp.blogspot.com/-0-jmFiJGO1s/V3XsRCbbunI/AAAAAAAADkw/RT9bdANlWREhfBmE-6mWZpLJK7n8Yca7QCLcB/s1600/autorlogo1.png["Logo autor",align="center"]
