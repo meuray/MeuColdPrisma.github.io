@@ -46,10 +46,5 @@ ul.pagination li a {
 
 ++++
 
-
-
-
-
-
-
 image::https://2.bp.blogspot.com/-0-jmFiJGO1s/V3XsRCbbunI/AAAAAAAADkw/RT9bdANlWREhfBmE-6mWZpLJK7n8Yca7QCLcB/s1600/autorlogo1.png["Logo autor",align="center"]
+
