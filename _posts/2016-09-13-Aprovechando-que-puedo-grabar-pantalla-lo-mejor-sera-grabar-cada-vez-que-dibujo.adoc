@@ -9,7 +9,7 @@ image::https://dl.dropboxusercontent.com/u/71565615/lookatyou.png["mirada",align
 Hace ya un par de meses que me descargue el OBS(open broadcaster software) lo hice por mera curiosidad al ver que era uno de los programas que recomendaba youtube para hacer directos, así que me puse a jugar con el y di que aparte de hacer directos también te permite grabar aparte lo que estas haciendo, así que empece a usarlo de a poco, primero para probarlo realizando un directo de mi dibujando o más bien pintando y creo que allí me fije de algo, si me quedo mucho tiempo dibujando o realizando una tarea sin parar, me voy a terminar cansando, el directo que realice lo pueden observar aquí abajo ↓↓↓
 
 
-video::https://www.youtube.com/watch?v=dl9MV893k_A[youtube]
+video::dl9MV893k_A[youtube]
 
 Luego de intentarlo otras veces me percate de otros contratiempos, como por ejemplo que la transmisión en se este viendo del todo bien, que el Internet se caiga y se pierda la transmisión, por lo que luego de meditarlo un poco, dejare las transmisiones en directo para ciertas ocasiones especiales, ya que estar mucho tiempo en un sitio sin moverme también me trajo problemas físicos como dolor de espalda.
 
