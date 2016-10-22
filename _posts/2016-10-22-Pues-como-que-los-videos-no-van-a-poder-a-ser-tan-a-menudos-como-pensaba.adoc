@@ -1,0 +1,7 @@
+= Pues como que los vídeos no van a poder a ser tan a menudos como pensaba
+
+:hp-tags: registro
+
+image::http://67.media.tumblr.com/7204499cad200383568b69626302c403/tumblr_offy29n3kP1s7ygiyo1_1280.png["Work", align="center"]
+
+Lo que dice el titulo, como que los vídeos donde me muestro dibujando no van a ser tan seguidos y eso es debido a que por algún motivo no pinto de la misma forma cuando estoy sin grabar que cuando me estoy grabando, me explico, es como si cuando me grabo quisiera no cometer un solo error y me termino agobiando más, sin contar que también quiero salir del dibujo rápido y tengo que estar vigilando el OBS a que no me ocurra un error de repente, como que la ventana de gimp se pierde o se cambia por otra… y cuando dibujo sin grabar todo eso desaparece, así que eso supongo que les dejare la muestra del avance para no tener esto tan vació   
