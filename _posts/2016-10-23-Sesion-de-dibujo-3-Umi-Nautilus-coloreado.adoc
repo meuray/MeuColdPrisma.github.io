@@ -3,3 +3,9 @@
 :hp-tags: registro
 
 Me había tardado en subir este vídeo, la mayor parte por pereza pero también por que desconocía una herramienta kdenlive que me hubiera hecho la vida algo más fácil para los primeros vídeos, bueno igual aquí el vídeo ↓↓↓↓  
+
+video::9jXGptwfr9k[youtube]
+
+El resultado final seria este
+
+image::https://67.media.tumblr.com/87f131f4cbd36965169255159c7ac4ba/tumblr_ofi2w36Ylw1s7ygiyo1_540.png["umi", align="center"]
